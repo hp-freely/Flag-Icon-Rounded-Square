@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "FlagIconRoundedSquare.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Flag Icon Rounded Square
 A flag icon replacement with a small rounded square that is 18x18 pixels. There are no patterns. 
 
